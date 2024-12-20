@@ -1,4 +1,4 @@
-#+title: Solution for 2024 AET Challenge Day Cryptogram/Cryptography Challenge
+#+title: Solution for 2024 AET Challenge Day Cryptogram/Cryptography Activity
 
 This repository contains the [[https://uiua.org][Uiua]] script my team and I used to solve AET Challenge Day's cryptogram/cryptography challenge.
 
