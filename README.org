@@ -6,6 +6,6 @@ All code is in [[file:main.ua][main.ua]] with comments and notes on the solution
 
 Test and run this code [[https://uiua.org/pad][on the online interactive editor]]! Unfortunately, the code is too long to embed in the URL, so you'll have to copy-paste the content from [[file:main.ua][main.ua]] into the editor.
 
-If you have an LCPS Google account, you can experience the challenge yourself (if it's still online) [[https://sites.google.com/lcps.org/aetchallengedaycipher1][here]].
+If you have an LCPS Google account, you can experience our version of the challenge yourself (if it's still online) [[https://sites.google.com/lcps.org/aetchallengedaycipher1][here]]. The challenge is a slightly modified version of a challenge from Khan Academy; feel free to try your hand at [[https://www.khanacademy.org/computing/computer-science/cryptography/cryptochallenge/a/cryptochallenge-introduction][the original version]].
 
 Special thanks to my teammates Brian Tay, Kyle Zheng, and Alexandra Baranov for helping win this challenge (especially part three).
